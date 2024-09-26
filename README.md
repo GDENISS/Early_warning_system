@@ -8,6 +8,7 @@ visualize and interact with data layers related to deforestation, biodiversity l
 - Detect and predict future deforestation trends using time series data.
 - Provide early warnings for upcoming years to help mitigate the effects of deforestation.
 - Visualize deforestation patterns and allow further analysis by leveraging geospatial data.
+
 The project utilizes the LSTM neural network for time series analysis and forecasting of deforestation trends, it also utilises unet model for classificarion and visualization of the forested ares. It further visualizes the resuts on a web based Gis formulated using react js and leafmap. The system is scalable and adaptable to various regions, with an emphasis on providing actionable insights for environmental conservation.
 
 ## Essentials
