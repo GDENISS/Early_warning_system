@@ -1,4 +1,9 @@
 # Early_warning_system
+This project focuses on building a web-based GIS early warning system that tracks deforestation 
+and its associated impacts, including human-wildlife conflicts. It uses geospatial data, AI models, 
+and open-source tools to detect, monitor, and predict deforestation trends, wildlife movement, and 
+vulnerable areas in real-time. The system will output an interactive web platform where users can 
+visualize and interact with data layers related to deforestation, biodiversity loss, and conflict zones.
 ### The Early Warning System aims to:
 - Detect and predict future deforestation trends using time series data.
 - Provide early warnings for upcoming years to help mitigate the effects of deforestation.
